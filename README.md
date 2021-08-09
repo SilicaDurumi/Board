@@ -1,6 +1,6 @@
 # Board
  Spring Boot Board
-http://sbbt.ga
+http://sbbt.ga/
 
 Java version : JavaSE-11 (jdk-15.0.2)
 
