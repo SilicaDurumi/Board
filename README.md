@@ -4,11 +4,16 @@ http://sbbt.ga/
 
 실행 환경
 ubuntu 18.04.5 LTS
+
 JavaSE-11 (jdk-15.0.2)
+
 Tomcat 9
+
 Spring v5.3.9
+
 spring Boot v2.5.3
 
+TEST
 
 1. git clone https://github.com/SilicaDurumi/Board.git /home/(Replace to your Directory)
 2. cd ~/home/(Replace to your Directory)/SBBT/Board/src/main/resource
