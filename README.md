@@ -42,5 +42,4 @@ Reference
 
 https://congsong.tistory.com/
 
-https://ecsimsw.tistory.com/entry/AWS-ec2-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC
-
+https://ecsimsw.tistory.com/
