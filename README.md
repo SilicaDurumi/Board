@@ -14,7 +14,10 @@ spring Boot v2.5.3
 2. cd ~/home/(Replace to your Directory)/SBBT/Board/src/main/resource
 3. sudo vim application.properties 
 4. 3번에서 (MY_SQL IP)를 사용할 데이터베이스의 엔드포인트나 IP로 변경하고;
-spring.datasource.hikari.username= ,spring.datasource.hikari.password= 부분도 실행할 환경에 맞게 변경 후 저장
+
+spring.datasource.hikari.username= 
+
+spring.datasource.hikari.password= 부분도 실행할 환경에 맞게 변경 후 저장
 5. cd ~/home/(Replace to your Directory)/SBBT/Board
 6. sudo chmod 777 gradlew
 7. ./gradlew build(-x test)
