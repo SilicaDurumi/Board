@@ -17,7 +17,9 @@ spring Boot v2.5.3
 
 spring.datasource.hikari.username= 
 
-spring.datasource.hikari.password= 부분도 실행할 환경에 맞게 변경 후 저장
+spring.datasource.hikari.password= 
+
+부분도 실행할 환경에 맞게 변경 후 저장
 
 5. cd ~/home/(Replace to your Directory)/SBBT/Board
 6. sudo chmod 777 gradlew
