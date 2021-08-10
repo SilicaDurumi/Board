@@ -34,7 +34,8 @@ spring.datasource.hikari.password=
 8. sudo service tomcat9 stop(톰캣이 이미 실행된 경우 10번의 웹서버 테스트가 원활하지 않을 수 있음)
 9. cd ~/home/(Replace to your Directory)/SBBT/Board.build/libs
 10. Java -jar Board-0.0.1-SNAPSHOT.jar로 서버 실행 후 테스트
-10-1. 백그라운드로 실행할  nohup java -jar Board-0.0.1-SNAPSHOT.jar로 실행
+11. 백그라운드로 실행할 경우 nohup java -jar Board-0.0.1-SNAPSHOT.jar로 실행
+
 
 
 
