@@ -35,10 +35,8 @@ spring.datasource.hikari.password=
 6. sudo chmod 777 gradlew
 7. ./gradlew build(-x test)
 8. sudo service tomcat9 stop(톰캣이 이미 실행된 경우 10번의 웹서버 테스트가 원활하지 않을 수 있음)
-9. cd ~/home/(Replace to your Directory)/SBBT/Board.build/libs
-10. Java -jar Board-0.0.1-SNAPSHOT.jar  서버 실행 후 테스트
-11. nohup java -jar Board-0.0.1-SNAPSHOT.jar  (백그라운드로 실행할 경우)
-
+9. ./start.sh (서버 실행)
+10. ./stop.sh (서버 중지)
 
 
 
