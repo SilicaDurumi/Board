@@ -39,6 +39,9 @@ spring.datasource.hikari.password=
 10. ./stop.sh (서버 중지)
 
 
+#Bug Report
+
+https://forms.gle/UoPUCxQhtsxxkeQL7
 
 
 Reference 
