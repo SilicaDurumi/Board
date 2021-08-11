@@ -1,7 +1,7 @@
 # Board
  Spring Boot Board
  
-http://sbbt.ga:8080/board/list.do
+http://sbbt.ga
 
 실행 환경
 ubuntu 18.04.5 LTS
