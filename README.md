@@ -14,7 +14,7 @@ Spring v5.3.9
 
 spring Boot v2.5.3
 
-Amazon EC2, RDS
+Amazon AWS 
 
 
 
